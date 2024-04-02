@@ -1,0 +1,18 @@
+@import url('https://classroom.google.com/c/NjU3MTYwODcwNDcz/p/NjU2Mjc2NzY5NDAx/details;');
+
+
+ :root{
+
+  --cor-de-fundo: lelele;
+  --verde: #6ff576;
+  --brano: #FFFFFF;
+  --botãoverflow: ativo #3a375e;
+   --botão-inativo: rgba(58, 55, 94, 0.3);
+
+ }
+body{
+  background-color: var(--cor-de-fundo) ;
+  color:var(--branco);
+  font-family: 'Chacra Petch', sans-serif;
+
+}
